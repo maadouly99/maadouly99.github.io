@@ -1,0 +1,20 @@
+.contain{
+    width: 200px;
+    height: 200px;
+    border: 1px red solid;
+   
+    text-align: center;
+}
+
+select{
+    margin-bottom: 50px;
+    height: 30px;
+    width: 100px;
+
+}
+#menu{
+	border:1px red solid;
+	width:200px;
+    text-align:center  
+
+    };
